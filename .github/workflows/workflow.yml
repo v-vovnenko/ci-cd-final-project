@@ -2,7 +2,7 @@ name: CI workflow
 
 
 on:
-  ush:
+  push:
     branches: Push on main branch
   pull_request:
     branches: Pull_request on main branch
