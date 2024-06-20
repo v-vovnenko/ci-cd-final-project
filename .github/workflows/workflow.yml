@@ -1,10 +1,11 @@
 name: CI workflow
 
+
 on:
-  push:
-    branches: push on main branch
+  ush:
+    branches: Push on main branch
   pull_request:
-    branches: pull_request on main branch
+    branches: Pull_request on main branch
     
 
 jobs:
